@@ -1,16 +1,5 @@
-# qr_handler
+# QR Code Handler Using Flutter
 
-A new Flutter project.
+Generate And Scan QR Code Using Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![QR Code Handler](https://user-images.githubusercontent.com/81623956/206937175-bbaef364-df37-448c-ae36-0a4edd963e13.gif)
